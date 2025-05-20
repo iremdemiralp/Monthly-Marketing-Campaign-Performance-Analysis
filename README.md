@@ -1,4 +1,4 @@
-# SQL Analysis Projects 
+## SQL Analysis Projects 
 
 This repository contains SQL analysis scripts created using DBeaver. Each file includes queries tailored to specific business needs or data analysis scenarios.
 
